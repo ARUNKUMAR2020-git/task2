@@ -1,0 +1,46 @@
+.form {
+    position: absolute;
+    top: 3em;
+    left: 25em;
+    height: 250px;
+    border: 2px solid black;
+    width: 40%;
+}
+.radii {
+    padding-right: 3em;
+}
+.zero {
+    position: absolute;
+    top: 200px;
+    left: 14em;
+    border: 0px;
+  }
+
+.one {
+    position: absolute;
+    left: 1.5em;
+    top: 23.5em;
+    border: 2px solid black;
+    width: 110%;
+}
+.two {
+    position: absolute;
+    left: 1em;
+    top: 30em;
+    border: 2px solid black;
+    width: 110%;
+}
+.rad{
+    padding-right: 3em;
+}
+.side{
+    margin-left: 1.5em;
+}
+.akash {
+    position: absolute;
+    top: 19em;
+    left: 0em;
+    height: 250px;
+    border: 2px solid black;
+    width: 120%;
+}
